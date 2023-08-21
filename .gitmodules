@@ -7,9 +7,6 @@
 [submodule "ros_ws/src/qutas_lab_450"]
 	path = ros_ws/src/qutas_lab_450
 	url = git@github.com:qutas/qutas_lab_450.git
-[submodule "ros_ws/depthai_publisher"]
-	path = ros_ws/depthai_publisher
-	url = git@github.com:jessbender/depthai_publisher.git
 [submodule "ros_ws/src/depthai_publisher"]
 	path = ros_ws/src/depthai_publisher
 	url = git@github.com:jessbender/depthai_publisher.git
