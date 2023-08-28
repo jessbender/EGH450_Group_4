@@ -1,12 +1,3 @@
-[submodule "ros_ws/src/breadcrumb"]
-	path = ros_ws/src/breadcrumb
-	url = git@github.com:qutas/breadcrumb.git
-[submodule "ros_ws/src/spar"]
-	path = ros_ws/src/spar
-	url = git@github.com:qutas/spar.git
-[submodule "ros_ws/src/qutas_lab_450"]
-	path = ros_ws/src/qutas_lab_450
-	url = git@github.com:qutas/qutas_lab_450.git
 [submodule "ros_ws/src/depthai_publisher"]
 	path = ros_ws/src/depthai_publisher
 	url = git@github.com:jessbender/depthai_publisher.git
