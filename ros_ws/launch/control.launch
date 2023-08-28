@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <launch>
-	<arg name="uav_name" default="uav" />
+	<arg name="uav_name" default="uavg4" />
 
 	<!-- MAVROS Parameters -->
 	<arg name="fcu_url" default="/dev/ttyUSB0:115200" />
