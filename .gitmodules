@@ -10,3 +10,7 @@
 [submodule "ros_ws/src/spar"]
 	path = ros_ws/src/spar
 	url = git@github.com:jessbender/spar.git
+
+[submodule "ros_ws/src/egh450_target_solvepnp"]
+	path = ros_ws/src/egh450_target_solvepnp
+	url = git@github.com:jessbender/egh450_target_solvepnp.git
