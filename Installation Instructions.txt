@@ -1,0 +1,18 @@
+Install Ubuntu on Raspberry Pis:
+
+Download the Ubuntu Server image for Raspberry Pi.
+Flash the image onto an SD card (use tools like "balenaEtcher").
+Insert the flashed SD card into Raspberry Pi and boot.
+Connect to Pi via ssh (default credentials: username: ubuntu, password: ubuntu).
+Change the default password when prompted.
+
+Install ROS on the Raspberry Pis:
+
+Setup ROS Repositories.
+Install ROS Noetic (or your desired version).
+Initialize rosdep.
+Setup ROS environment in .bashrc.
+Clone Custom Code from a Git Repository:
+
+Install git.
+Clone your repository using git clone [https://github.com/jessbender/EGH450_Group_4].
